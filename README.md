@@ -1,23 +1,62 @@
-# Hi 👋, I'm mohamed gomaa
+# Hi 👋, I'm Mohamed Gomaa  
 
-### data analyst
+## 🚀 Data Analyst | Aspiring Data Scientist  
 
-- 🌱 I'm currently learning **Machine Learning, NLP, Computer Vision, Data Science, and Data Warehousing**
+---
 
-- 💬 Ask me about **Data Analysis, Python, Power BI, and SQL**
+### 👨‍💻 About Me
+- 🌱 Currently learning **Machine Learning, NLP, Computer Vision, Data Science, and Data Warehousing**
+- 💬 Ask me about **Data Analysis, Python, Power BI, SQL**
+- 📫 Reach me at: **mhmdjmtabwbkr@gmail.com**
+- 🌐 Portfolio: [My Projects](https://mohamed-goma-a.github.io/portfolio/)
 
-- 📫 How to reach me **mhmdjmtabwbkr@gmail.com**
+---
 
-- 👨‍💻 All of my projects are available at **[https://mohamed-goma-a.github.io/portfolio/](https://mohamed-goma-a.github.io/portfolio/)**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/moh01124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="moh01124" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-gomaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-gomaa" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamedgoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedgoma" height="30" width="40" /></a>
-<a href="https://hackerrank.com/mhmdjmtabwbkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mhmdjmtabwbkr" height="30" width="40" /></a>
-<a href="https://leetcode.com/mohamed_goma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed_goma" height="30" width="40" /></a>
+<a href="https://github.com/moh01124"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="https://linkedin.com/in/mohamed-gomaa"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://kaggle.com/mohamedgoma"><img src="https://skillicons.dev/icons?i=kaggle" width="40"/></a>
+<a href="https://www.hackerrank.com/mhmdjmtabwbkr"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/mohamed_goma"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
+---
+
+### 🛠 Languages & Tools
+
+<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/>
+<img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="40"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moh01124&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moh01124&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh01124&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *“Turning data into insights and insights into decisions.”*
